@@ -1,5 +1,4 @@
-# CSC 519 - DevOps
-## HW1
+# API for Cloud Provision
 
 This repository contains the code API from two cloud providers for automatic provision. The two cloud providers are DigitalOcean and Google Cloud Provider. The task was to create two VMs using a registered ssh key and print the IP address of the new server.
 
